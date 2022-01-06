@@ -1,0 +1,16 @@
+C:\Users\aliss\StopWatch2\bin\Debug\net5.0\StopWatch2.exe
+C:\Users\aliss\StopWatch2\bin\Debug\net5.0\StopWatch2.deps.json
+C:\Users\aliss\StopWatch2\bin\Debug\net5.0\StopWatch2.runtimeconfig.json
+C:\Users\aliss\StopWatch2\bin\Debug\net5.0\StopWatch2.runtimeconfig.dev.json
+C:\Users\aliss\StopWatch2\bin\Debug\net5.0\StopWatch2.dll
+C:\Users\aliss\StopWatch2\bin\Debug\net5.0\ref\StopWatch2.dll
+C:\Users\aliss\StopWatch2\bin\Debug\net5.0\StopWatch2.pdb
+C:\Users\aliss\StopWatch2\obj\Debug\net5.0\StopWatch2.csproj.AssemblyReference.cache
+C:\Users\aliss\StopWatch2\obj\Debug\net5.0\StopWatch2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliss\StopWatch2\obj\Debug\net5.0\StopWatch2.AssemblyInfoInputs.cache
+C:\Users\aliss\StopWatch2\obj\Debug\net5.0\StopWatch2.AssemblyInfo.cs
+C:\Users\aliss\StopWatch2\obj\Debug\net5.0\StopWatch2.csproj.CoreCompileInputs.cache
+C:\Users\aliss\StopWatch2\obj\Debug\net5.0\StopWatch2.dll
+C:\Users\aliss\StopWatch2\obj\Debug\net5.0\ref\StopWatch2.dll
+C:\Users\aliss\StopWatch2\obj\Debug\net5.0\StopWatch2.pdb
+C:\Users\aliss\StopWatch2\obj\Debug\net5.0\StopWatch2.genruntimeconfig.cache
